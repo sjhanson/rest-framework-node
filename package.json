@@ -1,0 +1,28 @@
+{
+  "name": "node-rest-framework",
+  "version": "1.0.0",
+  "description": "Sample framework to implement REST API using Express",
+  "main": "./server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjhanson/node-rest-framework.git"
+  },
+  "author": "Stephen J. Hanson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjhanson/node-rest-framework/issues"
+  },
+  "homepage": "https://github.com/sjhanson/node-rest-framework#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-request-id": "^1.4.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
