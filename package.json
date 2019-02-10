@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjhanson/node-rest-framework.git"
+    "url": "git+https://github.com/sjhanson/rest-framework-node.git"
   },
   "author": "Stephen J. Hanson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sjhanson/node-rest-framework/issues"
+    "url": "https://github.com/sjhanson/rest-framework-node/issues"
   },
-  "homepage": "https://github.com/sjhanson/node-rest-framework#readme",
+  "homepage": "https://github.com/sjhanson/rest-framework-node#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-request-id": "^1.4.1",
